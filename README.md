@@ -1,27 +1,22 @@
-![header](https://capsule-render.vercel.app/api?type=rect&color=75BDE0&height=170&section=header&text=Namwoo%20Github&fontSize=100&fontAlignY=40&desc=NLP%20Engineer%20/%20Financial%20Data%20Scientist&descSize=30&descAlignY=78)
+![header](https://capsule-render.vercel.app/api?type=rect&color=75BDE0&height=170&section=header&text=Hannah%20Github&fontSize=100&fontAlignY=40&desc=NLP%20Engineer%20/%20Financial%20Data%20Scientist&descSize=30&descAlignY=78)
 
 # Profile
-* ### Name : 권남우
+* ### Name : 김현나
 
 * ### Contact 
-  <a href="mailto:namwootree4work@naver.com"><img src="https://img.shields.io/badge/Naver Mail-03C75A?style=for-the-badge&logo=Naver&logoColor=white">
-  <a href="https://www.instagram.com/__nw_o/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white">
-  <a href="https://velog.io/@namwootree"><img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=Velog&logoColor=white">
+  <a href="mailto:hna12@naver.com"><img src="https://img.shields.io/badge/Naver Mail-03C75A?style=for-the-badge&logo=Naver&logoColor=white">
+  <a href="https://yoda-it-study.tistory.com"><img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=Velog&logoColor=white">
 
-* ### Level of Education : 울산대학교 학사
-  * 글로벌경영학과 졸업 (4.07/4.5)
-  * 마이크로특화전공 이수 : 공공·복지경영기초
-  
-* ### Award
-  * [(재)울산발전연구원] 제12회 대학(원)생 논문 현상 공모전 장려상 (2020.11.10)
+* ### Level of Education : 숭실대학교
+  * Bachelor degree: 의생명시스템학부 (2016.03 ~ 2020.02)
+  * Master degree: Bioinformatics(통계유전학 연구실) (2020.03 ~ 2022.02)
 
-  
 * ### Experiences
   * [체험형 인턴] 한국석유공사 기획예산처 (2020.06.29 ~ 2020.07.24)
   * [울산대학교 경영대학 경영학부] 시장분석 전문가 양성 산학연계 과정 수료 (2020)
   * [오픈 캠퍼스] 한국산업인력공단 (2021.08.25 ~ 2021.08.31)
   * DSAC 전문교육훈련과정 수료 (2021.09.13 ~ 2021.10.08)
-  * [반장] 알파코 딥러닝 개발 부트 캠프 2기 (2022.03.07 ~ 2022.09.06)
+  * 알파코 딥러닝 개발 부트 캠프 2기 (2022.03.07 ~ 2022.09.06)
   
 * ### Tech Stack
 
