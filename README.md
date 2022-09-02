@@ -1,6 +1,7 @@
 ## Hyunna Kim 
 ### Bioinformatics / Deep Learning engineer
 📧 hna12@naver.com
+
 🖊️ https://yoda-it-study.tistory.com
 
 ### Profile
