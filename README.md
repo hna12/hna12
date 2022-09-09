@@ -2,7 +2,7 @@
 ### Bioinformatics / Deep Learning engineer
 📧 hna12@naver.com
 
-🖊️ https://yoda-it-study.tistory.com
+🖊️ https://yoda-it-study.tistory.com (pw: 5699)
 
 ### Profile
   * ### University : Soongsil univ.
