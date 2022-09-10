@@ -15,6 +15,7 @@
  * Python, R, Linux shell script
 
 ### Tool
+ * PLINK for GWAS(gemnome wide association study)
  * BeautifulSoup, Selenium
  * PyTorch, Tensorflow
  
