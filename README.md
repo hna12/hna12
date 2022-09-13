@@ -17,6 +17,8 @@
 ### Tool
  * PLINK for GWAS(genome wide association study)
  * BeautifulSoup, Selenium
- * PyTorch, Tensorflow
+ * PyTorch, Tensorflow, Scikit-learn
  
 ### Experiences
+ * Master Degree
+ * Alpaco Deep Learning Bootcamp
