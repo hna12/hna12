@@ -19,6 +19,6 @@
  * BeautifulSoup, Selenium
  * PyTorch, Tensorflow, Scikit-learn
  
-### Experiences
+### Tasks
  * Master Degree
  * Alpaco Deep Learning Bootcamp
