@@ -21,4 +21,12 @@
  
 ### Tasks
  * Master Degree
+   * Dataset
+     * 1000 genome eur (vcf)
+     * GTEx (sQTL dataset, RNA-seq dataset)
+     * gwascatalog
+   * Tool 
+     * plink (vcf to bed&bim&fam, Quality control, LD, significance test)
+     * R (clustering, t-test, anova test, post-Hoc, correlation analysis)
+     * haploreg, atSNP, ENSEMBL, UCSC genome browser(web based tool), gene ontology
  * Alpaco Deep Learning Bootcamp
