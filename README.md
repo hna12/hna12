@@ -30,3 +30,6 @@
      * R (clustering, t-test, anova test, post-Hoc, correlation analysis)
      * haploreg, atSNP, ENSEMBL, UCSC genome browser(web based tool), gene ontology
  * Alpaco Deep Learning Bootcamp
+   * Web crawling
+   * Machine learning
+   * Deep learning
