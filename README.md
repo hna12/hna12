@@ -23,7 +23,7 @@
  * Master Degree
    * PLINK
      * VCF -> BED,BIM,FAM
-     * Quality control (Minor allele frequenct, Hardy weinberg equilibrium)
+     * Quality control (Minor allele frequency, Hardy weinberg equilibrium)
      * Linkage disequilibrium
      * Correlation analysis (allele 변화에 따른 gene expression 변화분석)
    * R
