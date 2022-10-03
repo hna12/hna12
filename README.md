@@ -16,7 +16,7 @@
 
 ### Tool
  * PLINK for GWAS(genome wide association study)
- * BeautifulSoup, Selenium
+ * BeautifulSoup, Selenium for web crawling
  * PyTorch, Tensorflow, Scikit-learn
  
 ### Tasks
