@@ -4,6 +4,8 @@
 
 🖊️ https://yoda-it-study.tistory.com (pw: 5699)
 
+👩‍💻 simple CV: https://docs.google.com/document/d/1Q9jhevxtFf2OqplJBeeCNGfdsa3ynzvP/edit?usp=sharing&ouid=104315403202662887079&rtpof=true&sd=true
+
 ### Profile
   * ### University : Soongsil univ.
   * Bachelor degree: 의생명시스템학부 (2016.03 ~ 2020.02)
