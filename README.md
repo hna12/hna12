@@ -1,4 +1,4 @@
-## Hyunna Kim 
+## Hyunna Kim 🌿
 ### Bioinformatics / Deep Learning engineer
 📧 hna12@naver.com
 
