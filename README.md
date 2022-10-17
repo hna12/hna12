@@ -43,3 +43,6 @@ Category | Project  | Date | Execution Organization | Usage | Link
 ----------|-----------------|------|-------|-----------------|---------------------|
 Deep Learning | LG instance segmentation | 2022.08 | Alphaco | MMDetection | [LG-contest-instance-segmentation](https://github.com/hna12/LG_instance_segmentation_contest)
 Deep Learning | Kaggle VinBigData Chest X-ray Abnormalities Detection | 2022.07 | Alphaco | **Faster R-CNN**, YOLOX, EffecientDet | [Chest-X-ray-Object-Detection](https://github.com/hna12/Chest_X-ray_object_detection_project)
+Deep Learning | Diet service object detection | 2022.05 | Alphaco | YOLOv4 | [LG-contest-instance-segmentation](https://github.com/hna12/LG_instance_segmentation_contest)
+Deep Learning | Dog image classification | 2022.04 | Alphaco | Selenium, ResNet50 | [LG-contest-instance-segmentation](https://github.com/hna12/LG_instance_segmentation_contest)
+Web Crawling | Where to go for lunch in seongsu | 2022.03 | Alphaco | BeautifulSoup | [LG-contest-instance-segmentation](https://github.com/hna12/LG_instance_segmentation_contest)
