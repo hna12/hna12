@@ -45,4 +45,4 @@ Deep Learning | LG instance segmentation | 2022.08 | Alpaco | MMDetection | [LG-
 Deep Learning | Kaggle VinBigData Chest X-ray Abnormalities Detection | 2022.07 | Alpaco | **Faster R-CNN**, YOLOX, EffecientDet | [Chest-X-ray-Object-Detection](https://github.com/hna12/Chest_X-ray_object_detection_project)
 Deep Learning | Diet service object detection | 2022.05 | Alpaco | YOLOv4 | [LG-contest-instance-segmentation](https://github.com/hna12/LG_instance_segmentation_contest)
 Deep Learning | Dog image classification | 2022.04 | Alpaco | Selenium, ResNet50 | [LG-contest-instance-segmentation](https://github.com/hna12/LG_instance_segmentation_contest)
-Web Crawling | Where to go for lunch in seongsu | 2022.03 | Alpaco | BeautifulSoup | [LG-contest-instance-segmentation](https://github.com/hna12/LG_instance_segmentation_contest)
+Web Crawling | Where to go for lunch in seongsu | 2022.03 | Alpaco | BeautifulSoup | [mini project1](https://github.com/hna12/Where_to_go_for_lunch_in_seongsu)
