@@ -39,10 +39,10 @@
    * Machine learning
    * Deep learning
 
-   Category | Project  | Date | Execution Organization | Usage | Link
-   ----------|-----------------|------|-------|-----------------|---------------------|
-   Deep Learning | LG instance segmentation | 2022.08 | Alpaco | MMDetection | [Instance-segmentation project](https://github.com/hna12/LG_instance_segmentation_contest)
-   Deep Learning | Kaggle VinBigData Chest X-ray Abnormalities Detection | 2022.07 | Alpaco | **Faster R-CNN**, YOLOX, EffecientDet | [Object Detection project](https://github.com/hna12/Chest_X-ray_object_detection_project)
-   Deep Learning | Diet service object detection | 2022.05 | Alpaco | YOLOv4 | [mini project3](https://github.com/hna12/Diet_service-Object_detection)
-   Deep Learning | Dog image classification | 2022.04 | Alpaco | Selenium, ResNet50 | [mini project2](https://github.com/hna12/Dog_image_classification)
-   Web Crawling | Where to go for lunch in seongsu | 2022.03 | Alpaco | BeautifulSoup | [mini project1](https://github.com/hna12/Where_to_go_for_lunch_in_seongsu)
+  Category | Project  | Date | Execution Organization | Usage | Link
+  ----------|-----------------|------|-------|-----------------|---------------------|
+  Deep Learning | LG instance segmentation | 2022.08 | Alpaco | MMDetection | [Instance-segmentation project](https://github.com/hna12/LG_instance_segmentation_contest)
+  Deep Learning | Kaggle VinBigData Chest X-ray Abnormalities Detection | 2022.07 | Alpaco | **Faster R-CNN**, YOLOX, EffecientDet | [Object Detection project](https://github.com/hna12/Chest_X-ray_object_detection_project)
+  Deep Learning | Diet service object detection | 2022.05 | Alpaco | YOLOv4 | [mini project3](https://github.com/hna12/Diet_service-Object_detection)
+  Deep Learning | Dog image classification | 2022.04 | Alpaco | Selenium, ResNet50 | [mini project2](https://github.com/hna12/Dog_image_classification)
+  Web Crawling | Where to go for lunch in seongsu | 2022.03 | Alpaco | BeautifulSoup | [mini project1](https://github.com/hna12/Where_to_go_for_lunch_in_seongsu)
