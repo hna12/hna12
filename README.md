@@ -22,7 +22,7 @@
  * PyTorch, Tensorflow, Scikit-learn, MMDetection, OpenCV
  
 ### Tasks
- * Master Degree
+ * Master of Science
    * PLINK
      * VCF -> BED,BIM,FAM
      * Quality control (Minor allele frequency, Hardy weinberg equilibrium)
