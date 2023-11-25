@@ -7,11 +7,13 @@
 👩‍💻 [simple CV](https://docs.google.com/document/d/1Q9jhevxtFf2OqplJBeeCNGfdsa3ynzvP/edit?usp=sharing&ouid=104315403202662887079&rtpof=true&sd=true)
 
 ### Profile
-  * ### University : Soongsil univ.
+  * ### ***University*** : Soongsil univ.
   * Bachelor degree: 의생명시스템학부 (2016.03 ~ 2020.02)
   * Master degree: Bioinformatics(통계유전학 연구실) (2020.03 ~ 2022.02)
-  * ### Experiences
+  * ### ***Experiences***
   * 알파코 딥러닝 개발 부트 캠프 2기 (2022.03.07 ~ 2022.09.06)
+  * ### ***Work***
+  * imedisync (2023.03 ~ )
 
 ### Language
  * Python, R, Linux shell script, MySQL
