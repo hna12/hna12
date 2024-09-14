@@ -16,7 +16,7 @@
   * imedisync (2023.03 ~ )
 
 ### Language
- * Python, R, Linux shell script, MySQL
+ * Python, R, Bash shell script, MySQL
 
 ### Tool
  * PLINK for GWAS(genome wide association study)
