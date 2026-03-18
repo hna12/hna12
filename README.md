@@ -4,7 +4,7 @@
 
 🖊️study blog: https://yoda-it-study.tistory.com (pw: 5699)
 
-👩‍💻 [22년도 CV](https://docs.google.com/document/d/1Q9jhevxtFf2OqplJBeeCNGfdsa3ynzvP/edit?usp=sharing&ouid=104315403202662887079&rtpof=true&sd=true)
+👩‍💻 [2022 CV](https://docs.google.com/document/d/1Q9jhevxtFf2OqplJBeeCNGfdsa3ynzvP/edit?usp=sharing&ouid=104315403202662887079&rtpof=true&sd=true)
 
 ### Profile
   * ### ***University*** : Soongsil univ.
