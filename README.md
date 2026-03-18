@@ -16,7 +16,7 @@
   * imedisync (2023.03 ~ )
 
 ### Language
- * Python, R, Bash shell script, MySQL
+ * Python, R, Bash shell script, MySQL, MATLAB
 
 ### Tool
  * PLINK for GWAS(genome wide association study)
@@ -31,10 +31,10 @@
      * Linkage disequilibrium
      * Correlation analysis (allele 변화에 따른 gene expression 변화분석)
    * R
-     * t-test
+     * T-test
      * ANOVA test
-     * post-Hoc
-     * clustering
+     * Post-Hoc
+     * Clustering
 
  * Alpaco Deep Learning Bootcamp
    * Web crawling
