@@ -1,5 +1,5 @@
 ## Hyunna Kim 🌿
-### Bioinformatics / Deep Learning engineer
+### Bioinformatics / AI engineer
 📧mail: hna12@naver.com
 
 🖊️study blog: https://yoda-it-study.tistory.com (pw: 5699)
