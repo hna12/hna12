@@ -1,10 +1,10 @@
 ## Hyunna Kim 🌿
-### Bioinformatics / AI engineer
+### ML engineer / Data Scientist
 📧mail: hna12@naver.com
 
 🖊️study blog: https://yoda-it-study.tistory.com (pw: 5699)
 
-👩‍💻 [2022 CV](https://docs.google.com/document/d/1Q9jhevxtFf2OqplJBeeCNGfdsa3ynzvP/edit?usp=sharing&ouid=104315403202662887079&rtpof=true&sd=true)
+👩‍💻 [2026 CV](https://docs.google.com/document/d/1tui4vIdD43M0ZHzAp7A6nKwEIX2nLdJ1/edit?usp=sharing&ouid=104315403202662887079&rtpof=true&sd=true)
 
 ### Profile
   * ### ***University*** : Soongsil univ.
