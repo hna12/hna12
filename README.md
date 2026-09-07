@@ -9,7 +9,7 @@
 ### Profile
   * ### ***University*** : Soongsil univ.
   * Bachelor degree: 의생명시스템학부 (2016.03 ~ 2020.02)
-  * Master degree: Bioinformatics(통계유전학 연구실) (2020.03 ~ 2022.02)
+  * Master degree: 생명정보학과(통계유전학 연구실) (2020.03 ~ 2022.02)
   * ### ***Experiences***
   * 알파코 딥러닝 개발 부트 캠프 2기 (2022.03.07 ~ 2022.09.06)
   * ### ***Work***
